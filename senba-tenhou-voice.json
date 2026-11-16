@@ -1,0 +1,23 @@
+{
+  "ver": 1.0,
+  "se": {
+    "26": {
+      "url": "https://raw.githubusercontent.com/mano980808/senba-tenhou-voice/main/%E7%99%BA%E5%A3%B0_%E3%83%9D%E3%83%B3.wav"
+    },
+    "28": {
+      "url": "https://raw.githubusercontent.com/mano980808/senba-tenhou-voice/main/%E7%99%BA%E5%A3%B0_%E3%82%AB%E3%83%B3.wav"
+    },
+    "30": {
+      "url": "https://raw.githubusercontent.com/mano980808/senba-tenhou-voice/main/%E7%99%BA%E5%A3%B0_%E3%83%81%E3%83%BC.wav"
+    },
+    "32": {
+      "url": "https://raw.githubusercontent.com/mano980808/senba-tenhou-voice/main/%E7%99%BA%E5%A3%B0_%E3%83%AA%E3%83%BC%E3%83%81.wav"
+    },
+    "34": {
+      "url": "https://raw.githubusercontent.com/mano980808/senba-tenhou-voice/main/%E7%99%BA%E5%A3%B0_%E3%83%AD%E3%83%B3.wav"
+    },
+    "36": {
+      "url": "https://raw.githubusercontent.com/mano980808/senba-tenhou-voice/main/%E7%99%BA%E5%A3%B0_%E3%83%84%E3%83%A2.wav"
+    }
+  }
+}
